@@ -379,7 +379,7 @@ footer p:nth-child(2){
  *{
   box-sizing: border-box;
  }
- .model{
+ .photo{
   height:260px;
   left: 90%;
   transform: translateX(-90%);
